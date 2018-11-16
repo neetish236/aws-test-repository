@@ -1,1 +1,3 @@
-Hi this is the first activity done for Git Lab
+Hi this is the first activity done for Git Lab 
+
+tHIS IS FOR EXAMPLE
